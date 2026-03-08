@@ -3,7 +3,7 @@
 
 ## 📋 Project Overview
 
-An end-to-end data engineering solution built on Databricks Free Edition for a merged FMCG company. This project demonstrates how to build a scalable data pipeline that consolidates data from two companies (parent company and SportsBar - acquired startup) into a unified analytics platform.
+An end-to-end data engineering solution built on Databricks Free Edition for a merged FMCG company. This project demonstrates how to build a scalable data pipeline that consolidates data from two companies (parent company and  acquired startup) into a unified analytics platform.
 
 ## 🎯 Business Problem
 
